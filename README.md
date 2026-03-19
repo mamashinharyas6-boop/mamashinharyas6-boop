@@ -1,44 +1,33 @@
-````markdown id="x9h4k2"
+Alles klar 😎 ich mach dir jetzt die **beste Version: kurz, clean, hacker vibe, aber nicht overkill** — genau so, dass Leute direkt denken „okay, der ist legit“:
+
+---
+
+````markdown
 # 👾 mamashinharyas6-boop
 
 ```bash
-> booting system...
-> loading developer profile...
-> status: ACTIVE
+> initializing...
+> status: building & learning
 ````
 
----
-
-## 🧠 About Me
-
-```bash
-class Developer {
-  name = "mamashinharyas6-boop";
-  role = "App / Backend Dev (in progress)";
-  mindset = "analyze -> break -> rebuild";
-}
-```
-
-* 🛠️ Flutter / Dart
-* 🔗 APIs / Auth / Backend logic
-* 🗄️ SQL / Postgres
-* 🔐 learning security mindset
-* 🧪 experimenting & building
+🚀 App Developer (in progress)
+🔐 Interested in APIs, backend & system logic
+🧠 mindset: analyze → break → rebuild
 
 ---
 
-## ⚡ Hacker Loop
+## ⚡ Tech
 
 ```txt
-[+] analyze system
-[-] break system
-[+] fix system
-[+] improve system
+Flutter / Dart
+SQL / Postgres
+REST APIs
+Git / GitHub
 ```
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=mamashinharyas6-boop\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
@@ -46,51 +35,21 @@ class Developer {
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Activity
 
-![Snake animation](https://github.com/mamashinharyas6-boop/mamashinharyas6-boop/blob/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/mamashinharyas6-boop/mamashinharyas6-boop/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯
 
 ```txt
-> Flutter / Dart
-> SQL / Postgres
-> REST APIs
-> Git / GitHub
+build -> break -> fix -> improve
 ```
 
 ---
 
-## 📡 Runtime
-
-```txt
-code -> error -> debug -> fix -> repeat
-```
-
----
-
-## 🎯 Mission
-
-* 🔥 build real apps
-* 🧠 master clean architecture
-* 🔐 understand security
-* 🚀 ship projects that matter
-
----
-
-## 🏴‍☠️ System Status
-
-```bash
->>> learning: true
->>> building: true
->>> quitting: false
-```
-
----
-
-## 👁️ Terminal
+## 👁️
 
 ```bash
 echo "it works on my machine"
